@@ -1,7 +1,7 @@
 spacegrayish-limechat
 =====================
 
-Spacegrayish [LimeChat](http://limechat.net/) theme, based on the [Spacegray](http://kkga.github.io/spacegray/).
+[Spacegray](http://kkga.github.io/spacegray/)ish custome theme for [LimeChat](http://limechat.net/).
 
 ## Install
 
