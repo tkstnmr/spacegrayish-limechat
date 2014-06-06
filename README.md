@@ -7,6 +7,6 @@ spacegrayish-limechat
 
 ```
 cd ~/Library/Application\ Support/LimeChat/Themes/
-git clone git@github.com:tkstnmr/spacegrayish-limechat.git
+git clone https://github.com/tkstnmr/spacegrayish-limechat.git
 ln -s spacegrayish-limechat/Spacegrayish.* .
 ```
