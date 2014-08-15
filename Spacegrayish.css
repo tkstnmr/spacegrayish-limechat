@@ -1,6 +1,6 @@
 html {
-  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro';
-  font-size: 9pt;
+  font-family: 'Source Code Pro', 'Menlo', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', sans-serif;
+  font-size: 10pt;
   background-color: #2b303b;
   color: #c0c5ce;
   word-wrap: break-word;

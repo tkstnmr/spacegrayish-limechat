@@ -7,22 +7,22 @@ log-view:
 input-text:
   font-family: 'Hiragino Kaku Gothic Pro'
   font-size: 14.0
-  background-color: '#2b303b'
+  background-color: '#1c1f26'
   color: '#c0c5ce'
 member-list:
   font-family: 'Helvetica'
   font-size: 13.0
   color: '#65737e'
-  background-color: '#1c1f26'
+  background-color: '#2b303b'
   operator:
     color: '#bf616a'
   selected:
     color: '#c0c5ce'
-    background: '#343d46'
+    background: '#3d4859'
 server-tree:
   font-family: 'Helvetica'
   font-size: 13.0
-  background-color: '#1c1f26'
+  background-color: '#2b303b'
   highlight:
     color: '#bf616a'
   newtalk:
@@ -39,4 +39,4 @@ server-tree:
       color: '#c0c5ce'
     inactive:
       color: '#2b303b'
-    background: '#343d46'
+    background: '#3d4859'
