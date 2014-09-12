@@ -10,6 +10,14 @@ html {
 
 body { margin: 0; padding: 0; }
 
+/* for slack */
+.line[_type=mode] {
+    display: none;
+}
+div[nick=trello] .message {
+  color: #787c86;
+}
+
 /* the html tag has these classes and attributes too */
 body.normal {}
 body.console {}
