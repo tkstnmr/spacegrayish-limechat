@@ -15,7 +15,10 @@ body { margin: 0; padding: 0; }
     display: none;
 }
 div[nick=trello] .message {
-  color: #787c86;
+  color: #6b6f76;
+}
+div[nick=trello] .sender {
+  color: #8fa1b3;
 }
 
 /* the html tag has these classes and attributes too */
